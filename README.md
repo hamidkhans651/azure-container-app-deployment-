@@ -21,14 +21,14 @@
 
 - **Create Resource Group:**
     ```sh
-    az group create --name myresourcegroup --location southindia
+    az group create --name myresourcegroup --location eastus
     ```
 
 
 
 - **Create Container App Environment:**
     ```sh
-    az containerapp env create --name mycontainerappenv --resource-group myresourcegroup --location southindia
+    az containerapp env create --name mycontainerappenv --resource-group myresourcegroup --location ease
     ```
 
 
